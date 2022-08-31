@@ -1,0 +1,21 @@
+{
+  "name": "web_m3_down",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "http-server": "^14.1.1",
+    "vant": "^3.6.0",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "unplugin-vue-components": "^0.22.4",
+    "vite": "^3.0.4"
+  }
+}
